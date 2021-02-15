@@ -1,6 +1,6 @@
 # Applying Padding and Filter to an image
 
-This program first applies a user-selected padding to an image followed by a user-selected filter.
+This Python script first applies user-selected padding to an image followed by a user-selected filter.
 
 ## Installation
 
